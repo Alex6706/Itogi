@@ -3,7 +3,6 @@
 
 string [] array1 = new string [6] {"abcd", "55", "RTC", "cde", "si#", "Qwerty"};
 string [] array2 = new string[array1.Length];
-
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
     int count = 0;
